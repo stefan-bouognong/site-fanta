@@ -7,6 +7,7 @@ import Product from './components/Products/Product'
 import Banner from './components/Banner/Banner'
 import Blogs from './components/Blogs/Blogs'
 
+
 import { UpdateFollower } from 'react-mouse-follower'
 import BannerText from './components/Banner/BannerText'
 import FAQ from './components/FAQ/FAQ'
